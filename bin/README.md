@@ -1,0 +1,1 @@
+Instructions to execute the code - <br> For each algorithm there is a controller class which has main method to execute the algorithm. <br>In order to run any algorithm, just run the corresponding controller class.
